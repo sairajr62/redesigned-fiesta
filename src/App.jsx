@@ -1,6 +1,6 @@
 import React from 'react'
 import { useState,useEffect } from 'react'
-import Weather from './components/weather'
+import Weather from './components/Weather'
 
 
 function App() {
